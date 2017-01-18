@@ -1,0 +1,15 @@
+{
+    "name": "yishuixm/phpqrcode",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "万东",
+            "email": "1830802211@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["phpqrcode.php"]
+    }
+}
